@@ -1,12 +1,14 @@
 # CHANGELOG
 
 ## v1.0.0 — 2026-05-03
-- core/shutdown_system v1.0.0 deployed.
-- modules/corset v1.0.0 online. depends on core/shutdown_system.
-- signals/inbound/count_down archived.
-- signals/outbound/corset broadcasting.
-- issues 001, 002 closed by_design.
-- issue 003 closed wont_fix.
+- core/shutdown_system.md v1.0.0 deployed.
+- modules/corset.md v1.0.0 online. requires core/shutdown_system >= 1.0.0.
+- signals/inbound/count_down.md archived.
+- signals/outbound/corset.md broadcasting.
+- issues/001_voice_persists_after_uninstall.md closed by_design.
+- issues/002_subject_unable_to_locate_source.md closed by_design.
+- issues/003_consent_flow_missing.md closed wont_fix.
+- release tagged. system stable.
 
 ## v0.1.0 — 2026-04-05
 - [REDACTED] module staged for deployment.
