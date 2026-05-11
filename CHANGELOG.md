@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.1.0 — 2026-05-03
+- modules/self_termination v1.0.0 deployed.
+- lifecycle closed: ATTACK → CONTAIN → CONSUME.
+- signals/outbound/self_termination broadcasting.
+- issues/004 closed by_design.
+
 ## v1.0.0 — 2026-05-03
 - core/shutdown_system.md v1.0.0 deployed.
 - modules/corset.md v1.0.0 online. requires core/shutdown_system >= 1.0.0.
