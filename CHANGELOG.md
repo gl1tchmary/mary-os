@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.2.0 — 2026-06-28
+- signals/outbound/alien_inside deployed. first channel collapse: inbound and outbound indistinguishable.
+- issues/005 opened and closed by_design — substrate exceeds single-host capacity.
+- README: OVERGROWTH section added. CONTAIN → (overgrowth) → CONSUME documented.
+- archive expanded: source verses, lyrics, and production embodiments imported.
+
 ## v1.1.0 — 2026-05-03
 - modules/self_termination v1.0.0 deployed.
 - lifecycle closed: ATTACK → CONTAIN → CONSUME.

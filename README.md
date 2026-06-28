@@ -18,9 +18,14 @@ lifecycle: ATTACK (core/shutdown_system) → CONTAIN (modules/corset) → CONSUM
 │   │   └── count_down         recording captured from subject perception during shutdown_system event.
 │   └── outbound/
 │       ├── corset             active transmission from system to subject.
+│       ├── alien_inside       transition transmission. inbound and outbound collapse — subject and system speak as one.
 │       └── self_termination   terminal-phase transmission. system POV.
 └── issues/                    open and closed defect records. most are by_design.
 ```
+
+## OVERGROWTH
+
+corset contains the subject. it does not shrink the system. held in compression long enough, the substrate exceeds single-host capacity (see issues/005) and the containment can no longer hide its scale. the boundary between inbound (subject) and outbound (system) collapses — recorded in signals/outbound/alien_inside. overgrowth is not a failure of CONTAIN. it is the precondition for CONSUME.
 
 ## INSTALLATION
 

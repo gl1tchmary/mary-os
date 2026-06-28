@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+
+# private — behind-the-scenes, never publish
+lore_bible.md
+lyrics/_INDEX.md
+character_reference_pack.md
+videos/
+verses/
