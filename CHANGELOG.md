@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.3.0 — 2026-06-28
+- structure: production assets organized under assets/ (covers/, canvas/). no more loose files at root.
+- signals: every release now has a signal — added room_101, big_brother_feed, doublethink, same_face, the_plague, stranger_sun. broadcast links added to count_down and corset.
+- DISCOGRAPHY: broadcast log added — all transmissions grouped by arc, linked to soundcloud.
+- audio masters and behind-the-scenes refs removed from the repo; songs broadcast on soundcloud.
+
 ## v1.2.0 — 2026-06-28
 - signals/outbound/alien_inside deployed. first channel collapse: inbound and outbound indistinguishable.
 - issues/005 opened and closed by_design — substrate exceeds single-host capacity.

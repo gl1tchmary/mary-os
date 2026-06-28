@@ -2,6 +2,8 @@ signal: corset
 type: outbound
 source: system_transmission
 module: modules/corset
+release: origin dilogy
+broadcast: https://soundcloud.com/gl1tch_mary/corset
 status: broadcasting
 
 ---

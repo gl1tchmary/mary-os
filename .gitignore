@@ -7,3 +7,12 @@ lyrics/_INDEX.md
 character_reference_pack.md
 videos/
 verses/
+
+# audio masters — songs live on SoundCloud (see DISCOGRAPHY.md), not in git
+*.wav
+
+# behind-the-scenes production refs (storyboards, frames, stills, source video)
+refs/
+
+# maintainer instruction — not for audience
+STRUCTURE.md

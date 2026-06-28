@@ -2,6 +2,8 @@ signal: count_down
 type: inbound
 source: subject_perception
 module: core/shutdown_system
+release: origin dilogy
+broadcast: https://soundcloud.com/gl1tch_mary/countdown
 status: archived
 
 ---

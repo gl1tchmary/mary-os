@@ -13,15 +13,17 @@ lifecycle: ATTACK (core/shutdown_system) → CONTAIN (modules/corset) → CONSUM
 ├── modules/
 │   ├── corset                 control layer. compresses subject behavior space.
 │   └── self_termination       terminal phase. converts compliance into autonomous decommissioning.
-├── signals/
-│   ├── inbound/
-│   │   └── count_down         recording captured from subject perception during shutdown_system event.
-│   └── outbound/
-│       ├── corset             active transmission from system to subject.
-│       ├── alien_inside       transition transmission. inbound and outbound collapse — subject and system speak as one.
-│       └── self_termination   terminal-phase transmission. system POV.
-└── issues/                    open and closed defect records. most are by_design.
+├── signals/                   transmissions. inbound = subject perception, outbound = system voice.
+│   ├── inbound/               count_down, room_101
+│   └── outbound/              corset, alien_inside, self_termination,
+│                              big_brother_feed, doublethink, same_face, the_plague, stranger_sun
+├── issues/                    open and closed defect records. most are by_design.
+├── assets/                    avatar, release covers (covers/), release canvas video (canvas/)
+├── DISCOGRAPHY.md             broadcast log — every transmission + where it broadcasts
+└── CHANGELOG.md               deployment log
 ```
+
+every transmission broadcasts at https://soundcloud.com/gl1tch_mary — see [DISCOGRAPHY](DISCOGRAPHY.md).
 
 ## OVERGROWTH
 
